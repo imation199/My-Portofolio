@@ -5,7 +5,7 @@ export default function NavBAr() {
     return (
         <header className="bg-red-600" >
             <div className="container mx-auto flex justify-between" >
-                <nav className="flex" > 
+                <nav className="lg:flex" > 
                     <NavLink 
                         to="/" 
                         exact
