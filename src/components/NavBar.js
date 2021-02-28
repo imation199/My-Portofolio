@@ -37,6 +37,7 @@ export default function NavBAr() {
                     <SocialIcon url="https://github.com/imation199"
                      className="mr-4" 
                      target="_blank" 
+                     bgColor="#000"
                      fgColor="#fff" 
                      style={{height : 35, width : 35 }} />
                     <SocialIcon url="https://www.linkedin.com/in/limbageorge/" 
